@@ -6,7 +6,7 @@ jdk:
   - oraclejdk8
 
 script:
-  - ./scripts/travis-ci/main.sh
+  - ./build-scripts/main.sh
 
 cache:
   directories:
